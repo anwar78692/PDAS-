@@ -1,0 +1,21 @@
+body {
+    border-radius: 0mm;
+}
+
+.pda-main {
+    background-color: aqua;
+}
+
+h1 {
+    text-align: center;
+    font-size: large;
+}
+
+.card1 {
+    justify-self: unset;
+    margin: auto;
+    padding: 3rem;
+    align-items: flex-end;
+    
+
+}
